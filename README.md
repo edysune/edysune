@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @edysune (Edison Earnest)
-- 👀 I’m interested in Web Development/Full Stack Development/Compiler Development.
-- 🌱 I’m currently learning Angular, Docker, and other Web Technologies.
+- 👀 I’m interested in Web/Full Stack/Compiler Development. I also like movies, and write scripts occasionally to do things that are useful (splitting movies into frames, motion tracking, etc).
+- 🌱 I’m currently learning Angular, Docker, and other Web Technologies. I'm also creating several websites on my own time.
 - 📫 www.linkedin.com/in/edison-earnest-3275501b6
