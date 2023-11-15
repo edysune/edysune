@@ -2,3 +2,4 @@
 - 👀 I’m interested in Full Stack Development, and I currently write code whenever I have free time. I'm a huge fan of movies, and write scripts occasionally to do things that are useful for my side-projects at home (like splitting movies into frames, motion tracking, backing up large amounts of files remotely, etc).
 - 🌱 I’m currently learning web-related technologies. I work as a Full Stack Developer, and specifically work with technologies like Kubernetes/Docker, Azure Cloud Services (Cosmos DB, Azure Keyvault management, Azure Functions, etc), Github Actions/Azure Pipelines and CI management. Most of my experiences with languages and frameworks are in Angular, C# and .NET, but I do branch out whenever I can.
 - 📫 www.linkedin.com/in/edison-earnest-3275501b6
+- 🖥️ https://edisonearnest.com
